@@ -1,6 +1,6 @@
 # 안녕하세요👋
 
-저는 학생 프로그래머이고, 고성능 계산 시스템·컴퓨터 그래픽스·백엔드 개발을 조ㅎ아합니다.
+저는 학생 프로그래머이고, 고성능 계산 시스템·컴퓨터 그래픽스·백엔드 개발을 좋아합니다.
 
 🔭 저는 고려대학교에서 전기전자공학부와 컴퓨터학과를 이중전공하고 있습니다. 현재는 군입대를 위해 휴학중입니다.
 
@@ -16,6 +16,7 @@
 
 | 저장소 | 설명 |
 |:-----:|:-----:|
+<img src="https://github.com/stripe2933/chat/raw/main/screenshot/chat.png" width="400"> <br> [Chat](https://github.com/stripe2933) | REST API로 구현된 로그인/회원가입 등의 기능과, Websocket을 사용한 실시간 채팅 기능을 제공합니다. 멀티스레딩과 비동기 데이터베이스 요청을 이용한 고성능 처리와, HTTP/2 TLS 연결을 사용하여 보안성을 염두에 두었습니다. <br><br> *프레임워크: Vue-Js 3 (프론트엔드), Actix-web (백엔드)*
 [mdspan-formatter](https://github.com/stripe2933/mdspan_formatter) | C++23에 새로 도입된 `mdspan`과 `range_formatter`를 이용하여, 일반화된 layout (행 우선, 열 우선 등)의 다차원 배열을 NumPy와 유사하게 formatting할 수 있습니다. 템플릿 메타 프로그래밍을 이용해 컴파일 시간에 최적화된 코드를 생성합니다. Boost.ut를 사용해 단위 테스트 되었습니다. <br><br> *개발 언어: C++*
 <img src="https://github.com/stripe2933/SeoulMetropolitanSubway/raw/main/data/output/view_seoul.svg" width="400"> <br> [SeoulMetropolitanSubway](https://github.com/stripe2933/SeoulMetropolitanSubway) | [서울교통공사](http://www.seoulmetro.co.kr/kr/cyberStation.do)의 데이터를 Selenium으로 크롤링하고, 이를 NetworkX로 그래프화합니다. 카카오 로컬 API를 이용하여 추출한 역명의 경위도를 바탕으로 Matplotlib로 도시합니다. 2019년 대전광역시 수학동아리 컨퍼런스를 참가하며 만든 프로젝트입니다. <br><br> *개발 언어: Python, 라이브러리: Selenium, Matplotlib*
 <img src="https://user-images.githubusercontent.com/63503910/180939268-ead46126-c859-44c8-8237-1fdc14a1b084.png" width="400"> <br> [Todo.Avalonia](https://github.com/stripe2933/Todo.Avalonia) | Avalonia를 이용해 만든 간단한 ToDo 애플리케이션입니다. Light/Dark 모드를 지원하며 SQLite를 이용해 입력 데이터를 저장하고 실행 시 로드 가능합니다. <br><br>*개발 언어: C#, 프레임워크: Avalonia*
